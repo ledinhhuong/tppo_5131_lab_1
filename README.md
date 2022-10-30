@@ -2,7 +2,9 @@
 =============================
 ### TCP Сервер
 В окне терминала:
-- Запустить сервера, `python tppo_server_5131.py IP PORT`
+- Запустить сервера, `python tppo_server_5131.py ip port`
+
+Пример: `python tppo_server_5131.py 127.0.0.1 5000`
 ### TCP Клиенты
 В других окнах терминала:
 - Запустить клиенты, `python tppo_client_5131.py IP PORT`
